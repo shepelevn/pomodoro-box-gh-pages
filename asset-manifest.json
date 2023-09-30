@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pomodoro-box-testing/static/css/main.b53e4bf6.css",
-    "main.js": "/pomodoro-box-testing/static/js/main.b8ff7a96.js",
+    "main.js": "/pomodoro-box-testing/static/js/main.d0fbca16.js",
     "static/js/787.3e739583.chunk.js": "/pomodoro-box-testing/static/js/787.3e739583.chunk.js",
     "static/media/sf-ui-display-light-webfont.woff": "/pomodoro-box-testing/static/media/sf-ui-display-light-webfont.9e797e4bddde9be73ba4.woff",
     "static/media/sf-ui-display-thin-webfont.woff": "/pomodoro-box-testing/static/media/sf-ui-display-thin-webfont.28717c66532a984ea4fb.woff",
@@ -31,11 +31,11 @@
     "static/media/plus.svg": "/pomodoro-box-testing/static/media/plus.6e8cb21f173afddfdd5c2452205399e1.svg",
     "static/media/down.svg": "/pomodoro-box-testing/static/media/down.65c63775261c3964585838ed966d7ce5.svg",
     "main.b53e4bf6.css.map": "/pomodoro-box-testing/static/css/main.b53e4bf6.css.map",
-    "main.b8ff7a96.js.map": "/pomodoro-box-testing/static/js/main.b8ff7a96.js.map",
+    "main.d0fbca16.js.map": "/pomodoro-box-testing/static/js/main.d0fbca16.js.map",
     "787.3e739583.chunk.js.map": "/pomodoro-box-testing/static/js/787.3e739583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b53e4bf6.css",
-    "static/js/main.b8ff7a96.js"
+    "static/js/main.d0fbca16.js"
   ]
 }
